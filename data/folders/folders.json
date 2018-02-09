@@ -1,0 +1,155 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Desktop",
+            "isToggled": false,
+            "subFolders": [
+                {
+                    "id": 101,
+                    "name": "Folder1",
+                    "isCompleted": "false",
+                    "subFolders": [
+                        {
+                            "id": 101,
+                            "name": "Folder11",
+                            "isCompleted": "false"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Folder12"
+                        },
+                        {
+                            "id": 103,
+                            "name": "Folder13"
+                        },
+                        {
+                            "id": 104,
+                            "name": "Folder14"
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "name": "Folder2"
+                },
+                {
+                    "id": 103,
+                    "name": "Folder3"
+                },
+                {
+                    "id": 104,
+                    "name": "Folder4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Documents",
+            "isToggled": false,
+            "subFolders": [
+                {
+                    "id": 101,
+                    "name": "Folder1",
+                    "isCompleted": "false"
+                },
+                {
+                    "id": 102,
+                    "name": "Folder2"
+                },
+                {
+                    "id": 103,
+                    "name": "Folder3"
+                },
+                {
+                    "id": 104,
+                    "name": "Folder4"
+                },
+                {
+                    "id": 105,
+                    "name": "Folder5"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Downloads",
+            "isToggled": false,
+            "subFolders": [
+                {
+                    "id": 101,
+                    "name": "sleepIn",
+                    "isCompleted": "false"
+                },
+                {
+                    "id": 102,
+                    "name": "doubleX"
+                },
+                {
+                    "id": 103,
+                    "name": "nearHundered"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Music",
+            "isToggled": false,
+            "subFolders": [
+                {
+                    "id": 101,
+                    "name": "sleepIn",
+                    "isCompleted": "false"
+                },
+                {
+                    "id": 102,
+                    "name": "doubleX"
+                },
+                {
+                    "id": 103,
+                    "name": "nearHundered"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Pictures",
+            "isToggled": false,
+            "subFolders": [
+                {
+                    "id": 101,
+                    "name": "sleepIn",
+                    "isCompleted": "false"
+                },
+                {
+                    "id": 102,
+                    "name": "doubleX"
+                },
+                {
+                    "id": 103,
+                    "name": "nearHundered"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Videos",
+            "isToggled": false,
+            "subFolders": [
+                {
+                    "id": 101,
+                    "name": "sleepIn",
+                    "isCompleted": "false"
+                },
+                {
+                    "id": 102,
+                    "name": "doubleX"
+                },
+                {
+                    "id": 103,
+                    "name": "nearHundered"
+                }
+            ]
+        }
+    ]
+}
